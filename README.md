@@ -20,7 +20,8 @@ tarefas, com relatórios, inserção, remoção e atualização de registros.
 
 Este é o nosso primeiro projeto no Github, estávamos perdidos quanto a funcionalidade do git.
 No primeiro envio, o projeto completo foi enviado por um único integrante por falta de experiência 
-com a plataforma, o que não refletia quem desenvolveu cada parte. Para corrigir isso, cada integrante enviou, 
+(pensávamos que o projeto deveria ser enviado apenas na conclusão de todo o projeto), 
+o que não refletia quem desenvolveu cada parte. Para corrigir isso, cada integrante enviou, 
 com a própria conta, a parte que desenvolveu. Por isso todos os commits têm a mesma data.
 
 ## Modelo de dados
