@@ -114,6 +114,3 @@ Pelo terminal, dentro da pasta do projeto e com o ambiente virtual ativado:
 python3 src/principal.py
 ```
 
-## Observações
-
-- Ajuste as credenciais do `.env` conforme o seu ambiente.
