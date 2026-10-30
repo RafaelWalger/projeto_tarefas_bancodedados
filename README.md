@@ -58,10 +58,12 @@ docker compose up -d
 
 ### 2. Acessar a pasta do projeto
 
+OBS Certifique que a pasta projeto_tarefas_bancodedados-main não tenha outra com o mesmo nome dentro dela, caso isso aconteça, pegue o conteúdo da pasta interna e jogue para fora e exclua a pasta que tinha os arquivos
+
 Coloque a pasta do projeto no Desktop e entre nela:
 
 ```bash
-cd ~/Desktop/projeto_tarefas
+cd ~/Desktop/projeto_tarefas_bancodedados-main
 ```
 
 ### 3. Criar e ativar o ambiente virtual Python
