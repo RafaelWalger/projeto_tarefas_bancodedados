@@ -25,8 +25,7 @@ o que não refletia quem desenvolveu cada parte. Para corrigir isso, cada integr
 com a própria conta, a parte que desenvolveu. Por isso todos os commits têm a mesma data.
 
 ## Vídeo demonstrativo
-Vídeo requerido explicativo do menu e funcionalidades do código, segue link abaixo:
-https://www.youtube.com/watch?v=hz62E9bIKP4
+Vídeo requerido explicativo do menu e funcionalidades do código, segue o link do vídeo: https://www.youtube.com/watch?v=hz62E9bIKP4
 
 ## Modelo de dados
 
