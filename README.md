@@ -117,4 +117,3 @@ python3 src/principal.py
 ## Observações
 
 - Ajuste as credenciais do `.env` conforme o seu ambiente.
-- Não compartilhe o arquivo `.env` nem o envie ao GitHub, pois contém credenciais.
