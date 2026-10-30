@@ -1,0 +1,29 @@
+erDiagram
+    USUARIO ||--o{ TAREFA : "responsavel por"
+    CATEGORIA ||--o{ TAREFA : "classifica"
+
+    USUARIO {
+        NUMBER id_usuario PK "sequence seq_usuario"
+        VARCHAR2 nome "NOT NULL, ate 100"
+        VARCHAR2 email UK "NOT NULL, ate 100"
+        VARCHAR2 cargo "opcional, ate 50"
+    }
+
+    CATEGORIA {
+        NUMBER id_categoria PK "sequence seq_categoria"
+        VARCHAR2 nome "NOT NULL, ate 50"
+        VARCHAR2 descricao "opcional, ate 200"
+    }
+
+    TAREFA {
+        NUMBER id_tarefa PK "sequence seq_tarefa"
+        VARCHAR2 titulo "NOT NULL, ate 150"
+        VARCHAR2 descricao "opcional, ate 500"
+        VARCHAR2 status "Pendente, Em andamento ou Concluida"
+        VARCHAR2 prioridade "Baixa, Media ou Alta"
+        DATE data_criacao "NOT NULL"
+        DATE data_conclusao "opcional, maior ou igual a criacao"
+        NUMBER horas_gastas "NUMBER 6,2, maior ou igual a 0"
+        NUMBER id_usuario FK "NOT NULL"
+        NUMBER id_categoria FK "NOT NULL"
+    }
