@@ -24,6 +24,10 @@ No primeiro envio, o projeto completo foi enviado por um único integrante por f
 o que não refletia quem desenvolveu cada parte. Para corrigir isso, cada integrante enviou, 
 com a própria conta, a parte que desenvolveu. Por isso todos os commits têm a mesma data.
 
+## Vídeo demonstrativo
+Vídeo requerido explicativo do menu e funcionalidades do código, segue link abaixo:
+https://www.youtube.com/watch?v=hz62E9bIKP4
+
 ## Modelo de dados
 
 Diagrama relacional: [`diagrams/diagrama_relacional.mmd`](diagrams/diagrama_relacional.mmd)
