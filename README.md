@@ -4,7 +4,7 @@ Aplicação de console em **Python + Oracle** para gerenciar usuários, categori
 tarefas, com relatórios, inserção, remoção e atualização de registros.
 
 - **Disciplina:** Banco de Dados — **Professor:** Howard Roatti
-- **Grupo:** *Bernardo Pinotti Calenzani Simões, Rafael Walger Tovar, Kaua de Freitas*
+- **Grupo:** *Bernardo Pinotti Calenzani Simões, Rafael Walger Tovar, Kauã de Freitas*
 
 ## O que o sistema faz
 
